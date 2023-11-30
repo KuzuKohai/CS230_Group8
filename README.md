@@ -1,1 +1,1 @@
-# LearnHub
+# Welcome to LearnHub!
